@@ -1,8 +1,14 @@
 body {
-  background-color: lightblue;
+  background-color: #00a651;
 }
 
 h1 {
-  color: navy;
+  color: #8d00d3;
   margin-left: 20px;
+}
+
+#General-Kenobi {
+  padding: 8px;
+background: #ff5e95;
+width: 250px;
 }
